@@ -7,4 +7,5 @@ class App extends React.Component {
 		return <ConfigRoutes />;
 	}
 }
+
 export default App;
