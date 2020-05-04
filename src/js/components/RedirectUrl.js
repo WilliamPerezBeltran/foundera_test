@@ -1,17 +1,17 @@
 import React, { Component } from "react";
-import "../styles/ShortCode.css";
+import "../styles/RedirectUrl.css";
 import Header from "./Header";
 
-class ShortCode extends React.Component {
+class RedirectUrl extends React.Component {
 	render() {
 		return (
 			<div>
 				<div>
 					<Header />
-					<h1>ShortCode</h1>
+					<h1>RedirectUrl</h1>
 				</div>
 			</div>
 		);
 	}
 }
-export default ShortCode;
+export default RedirectUrl;
